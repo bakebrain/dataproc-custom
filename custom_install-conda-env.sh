@@ -63,7 +63,7 @@ else
     echo ".bashrc successfully appended!"
 fi
 
-echo "Activating $CONDA_ENV_NAME environment..."
-source activate $CONDA_ENV_NAME
+#echo "Activating $CONDA_ENV_NAME environment..."
+#source activate $CONDA_ENV_NAME
 
 
